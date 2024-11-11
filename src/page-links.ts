@@ -20,6 +20,7 @@ export class PageLinks extends LitElement {
   static styles = css`
     :host {
       display: block;
+      --page-background-color: #fff;
     }
 
     .page-links-wrapper {
